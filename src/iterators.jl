@@ -1,4 +1,4 @@
-typealias GosperState (Int64,Int64)
+typealias GosperState(Int64,Int64)
 
 immutable GosperIterator
     n::Int64
